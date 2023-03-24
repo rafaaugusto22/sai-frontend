@@ -1,0 +1,11 @@
+<div class="container-fluid">
+  <div class="jumbotron text-center">
+    <h1>
+      <img class="logo" src="assets/caixa.png" alt="angular logo" />
+      <span translate>APP_NAME</span>
+    </h1>
+    <p><i class="far fa-bookmark"></i> <span translate>Version</span> {{ version }}</p>
+    <app-loader [isLoading]="isLoading"></app-loader>
+    <q [hidden]="isLoading">{{ quote }}</q>
+  </div>
+</div>

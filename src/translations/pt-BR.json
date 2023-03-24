@@ -1,0 +1,20 @@
+{
+  "APP_NAME": "SAI-FRONT",
+  "About": "Sobre",
+  "Hello world !": "Olá mundo",
+  "Home": "Home",
+  "Logged in as": "Logado como ",
+  "Login": "Login",
+  "Logout": "Logout",
+  "Cancel": "Cancelar",
+  "Save": "Salvar",
+  "Password": "Senha",
+  "Password is required": "Senha é requerida",
+  "Username": "Usuário",
+  "Username is required": "Usuário é requerido",
+  "Username or password incorrect.": "Usuário ou Senha incorreto",
+  "Remember me": "Lembre-me",
+  "Version": "Versão",
+  "Ready to Leave?": "Deseja Sair?",
+  "Ready to Leave Descriprion": "Selecione \"Logout\" abaixo se você realmente deseja terminar sua sesão atual."
+}
